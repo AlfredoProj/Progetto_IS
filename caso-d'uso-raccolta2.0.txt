@@ -1,0 +1,22 @@
+1. Il caso d'uso comincia quando il cameriere crea un nuovo ordine
+2. Il sistema richiede i dati del tavolo
+3. Il cameriere inserisce i dati richiesti
+4. While i clienti ordinano:
+
+	4.1) Il sistema chiede di aggiungere elementi all'ordine
+	4.2) Il cameriere seleziona un elemento
+	4.3) Il sistema effettua un controllo sulla disponibilità in magazzino di tutti gli ingredienti dell'elemento selezionato.
+	4.4) IF tutti gli ingredienti sono disponibili:
+		4.4.1) Il sistema aggiunge l'elemento all'ordine
+
+5. Il cameriere conferma l'ordine
+6. Il sistema prenota in magazzino le quantità di ciascun ingrediente che costituiscono l'ordine
+7. Il sistema aggiunge l'ordine alla lista degli ordini da preparare
+
+POST CONDIZIONE: è stato aggiunto un nuovo ordine alla lista degli ordini da preparare
+
+Al punto 4.4 se non è presente in magazzino, la quantità desiderata di almeno un ingrediente:
+
+	4.4.1 Il sistema notifica il cameriere con un messaggio d’errore
+	4.4.2 Il cameriere provvede a modificare l’ordine
+	4.4.3 Si ritorna al punto 4.4 per un nuovo controllo sulla disponibilità degli ingredienti
