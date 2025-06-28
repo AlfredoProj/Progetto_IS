@@ -2,5 +2,5 @@ package Entity;
 
 public interface Ordinabile {
     String nome = null;
-    float prezzo = null;
+    double prezzo = 0;
 }

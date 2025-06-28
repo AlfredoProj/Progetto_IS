@@ -2,14 +2,14 @@ package Database;
 
 public class DAOTavolo {
 
-    public void createTavoloDB()() { }
+    public void createTavoloDB() { }
 
-    public void readTavoloDB()() { }
+    public void readTavoloDB() { }
 
-    public void updateTavoloDB()() { }
+    public void updateTavoloDB() { }
 
-    public void deleteTavoloDB()() { }
+    public void deleteTavoloDB() { }
 
-    public void execQuery()() { }
+    public void execQuery() { }
 
 }

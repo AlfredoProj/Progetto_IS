@@ -6,7 +6,7 @@ public class Pietanza {
     private Ricetta ricetta;
 
     public List<DoseIngrediente> ottieniDosi() {
-        return 0;
+        return null;
     }
 
 }

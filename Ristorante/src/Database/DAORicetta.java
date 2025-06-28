@@ -2,14 +2,14 @@ package Database;
 
 public class DAORicetta {
 
-    public void createRicettaDB()() { }
+    public void createRicettaDB() { }
 
-    public void readRicettaDB()() { }
+    public void readRicettaDB() { }
 
-    public void updateRicettaDB()() { }
+    public void updateRicettaDB() { }
 
-    public void deleteRicettaDB()() { }
+    public void deleteRicettaDB() { }
 
-    public void execQuery()() { }
+    public void execQuery() { }
 
 }

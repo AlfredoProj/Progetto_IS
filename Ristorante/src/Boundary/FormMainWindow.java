@@ -2,8 +2,8 @@ package Boundary;
 
 public class FormMainWindow {
 
-    public void clickOnCreaOrdine()() { }
+    public void clickOnCreaOrdine() { }
 
-    public void clickOnCreaOrdineHandler()() { }
+    public void clickOnCreaOrdineHandler() { }
 
 }

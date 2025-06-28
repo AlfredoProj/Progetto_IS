@@ -2,14 +2,14 @@ package Database;
 
 public class DAOMagazzino {
 
-    public void createMagazzinoDB()() { }
+    public void createMagazzinoDB() { }
 
-    public void readMagazzinoDB()() { }
+    public void readMagazzinoDB() { }
 
-    public void updateMagazzinoDB()() { }
+    public void updateMagazzinoDB() { }
 
-    public void deleteMagazzinoDB()() { }
+    public void deleteMagazzinoDB() { }
 
-    public void execQuery()() { }
+    public void execQuery() { }
 
 }

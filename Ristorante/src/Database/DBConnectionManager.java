@@ -2,7 +2,7 @@ package Database;
 
 public class DBConnectionManager {
 
-    public void Connection con() { }
+    /*public void Connection con() { }
 
     public Connection openConnection() {
         return 0;
@@ -10,6 +10,6 @@ public class DBConnectionManager {
 
     public Connection) closeConnection(conn {
         return 0;
-    }
+    }*/
 
 }

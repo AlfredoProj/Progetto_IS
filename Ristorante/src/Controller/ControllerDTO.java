@@ -1,5 +1,9 @@
 package Controller;
 
+import DTO.DTOOrdinabile;
+
+import java.util.List;
+
 public class ControllerDTO {
 
     public List<DTOOrdinabile> richiediMenu() {

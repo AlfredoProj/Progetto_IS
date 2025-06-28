@@ -2,14 +2,14 @@ package Database;
 
 public class DAOMenu {
 
-    public void createMenuDB()() { }
+    public void createMenuDB() { }
 
-    public void readMenuDB()() { }
+    public void readMenuDB() { }
 
-    public void updateMenuDB()() { }
+    public void updateMenuDB() { }
 
-    public void deleteMenuDB()() { }
+    public void deleteMenuDB() { }
 
-    public void execQuery()() { }
+    public void execQuery() { }
 
 }

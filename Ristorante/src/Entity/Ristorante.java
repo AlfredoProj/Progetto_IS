@@ -17,8 +17,8 @@ public class Ristorante {
         return null;
     }
 
-    public Ristorante getIstance() {
+    /*public Ristorante getIstance() {
         return 0;
-    }
+    }*/
 
 }

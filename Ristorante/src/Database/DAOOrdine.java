@@ -2,14 +2,14 @@ package Database;
 
 public class DAOOrdine {
 
-    public void createOrdineDB()() { }
+    public void createOrdineDB() { }
 
-    public void readOrdineDB()() { }
+    public void readOrdineDB() { }
 
-    public void updateOrdineDB()() { }
+    public void updateOrdineDB() { }
 
-    public void deleteOrdineDB()() { }
+    public void deleteOrdineDB() { }
 
-    public void execQuery()() { }
+    public void execQuery() { }
 
 }

@@ -6,7 +6,7 @@ public class MenuFisso {
     private List<Pietanza> portate;
 
     public boolean ottieniDosiTotali() {
-        return 0;
+        return true;
     }
 
 }

@@ -2,8 +2,8 @@ package Boundary;
 
 public class FormCalcoloWindow {
 
-    public void clickOnContinua()() { }
+    public void clickOnContinua() { }
 
-    public void clickOnContinuaHandler()() { }
+    public void clickOnContinuaHandler() { }
 
 }

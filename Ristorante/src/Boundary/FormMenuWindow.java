@@ -2,12 +2,12 @@ package Boundary;
 
 public class FormMenuWindow {
 
-    public void clickOnAddToOrder()() { }
+    public void clickOnAddToOrder() { }
 
-    public void clickOnAddToOrderHandler()() { }
+    public void clickOnAddToOrderHandler() { }
 
-    public void clickOnRiepilogo()() { }
+    public void clickOnRiepilogo() { }
 
-    public void clickOnRiepilogoHandler()() { }
+    public void clickOnRiepilogoHandler() { }
 
 }
